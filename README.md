@@ -2,6 +2,7 @@
 The application consist of 
 1. Client 
 2. Server 
+    
     2.1. DataExchabgeFlow object
   
 Each above stated objects can be run in a separate Thread.
